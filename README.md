@@ -5,3 +5,4 @@
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
 |UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation | UCC | CVPR | L+U | [PDF](https://arxiv.org/pdf/2205.10334.pdf) | [CODE]() |
+|Semi-supervised Semantic Segmentation with Error Localization Network | ELN | CVPE | L+U | [PDF](https://arxiv.org/pdf/2204.02078.pdf) | [CODE](http://cvlab.postech.ac.kr/research/ELN/) | 
