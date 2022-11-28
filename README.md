@@ -11,3 +11,8 @@
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
 | Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation | PC2Seg | ICCV | L+U | [PDF](https://arxiv.org/pdf/2108.09025.pdf) | [CODE]() |
+
+## 2020
+| Title | Abbreviation | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Semi-Supervised Semantic Segmentation with Cross-Consistency Training | CCT | CVPR | L+U | [PDF](https://arxiv.org/pdf/2003.09005.pdf) | [CODE](https://github.com/yassouali/CCT) |
