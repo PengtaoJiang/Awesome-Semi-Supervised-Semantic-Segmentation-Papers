@@ -16,3 +16,4 @@
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
 | Semi-Supervised Semantic Segmentation with Cross-Consistency Training | CCT | CVPR | L+U | [PDF](https://arxiv.org/pdf/2003.09005.pdf) | [CODE](https://github.com/yassouali/CCT) |
+| Guided Collaborative Training for Pixel-wise Semi-Supervised Learning | PixelCCL | ECCV | L+U | [PDF](https://arxiv.org/pdf/2008.05258.pdf) | [CODE](https://github.com/ZHKKKe/PixelSSL) |
