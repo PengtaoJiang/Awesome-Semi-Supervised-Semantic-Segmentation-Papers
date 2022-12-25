@@ -6,7 +6,8 @@
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
 | Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation | UniMatch | arXiv | L+U |[PDF](https://arxiv.org/pdf/2208.09910.pdf) | [CODE]() |
 |UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation | UCC | CVPR | L+U | [PDF](https://arxiv.org/pdf/2205.10334.pdf) | [CODE](https://github.com/LiheYoung/UniMatch) |
-|Semi-supervised Semantic Segmentation with Error Localization Network | ELN | CVPE | L+U | [PDF](https://arxiv.org/pdf/2204.02078.pdf) | [CODE](http://cvlab.postech.ac.kr/research/ELN/) | 
+|Semi-supervised Semantic Segmentation with Error Localization Network | ELN | CVPR | L+U | [PDF](https://arxiv.org/pdf/2204.02078.pdf) | [CODE](http://cvlab.postech.ac.kr/research/ELN/) | 
+| Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization | --  | NeurIPS | L+U | [PDF](https://arxiv.org/pdf/2210.04388.pdf) | [CODE](https://github.com/HeimingX/semi_seg_proto) | 
 
 ## 2021
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
