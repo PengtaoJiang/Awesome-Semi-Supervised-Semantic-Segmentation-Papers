@@ -24,3 +24,4 @@
 | Semi-Supervised Semantic Segmentation with Cross-Consistency Training | CCT | CVPR | L+U | [PDF](https://arxiv.org/pdf/2003.09005.pdf) | [CODE](https://github.com/yassouali/CCT) |
 | Guided Collaborative Training for Pixel-wise Semi-Supervised Learning | PixelCCL | ECCV | L+U | [PDF](https://arxiv.org/pdf/2008.05258.pdf) | [CODE](https://github.com/ZHKKKe/PixelSSL) |
 | Semi-supervised semantic segmentation needs strong, varied perturbations | -- | BMVC | L+U | [PDF](https://www.bmvc2020-conference.com/assets/papers/0680.pdf) | [CODE](https://github.com/Britefury/cutmix-semisup-seg) |
+| Semi-supervised semantic segmentation needs strong, high-dimensional perturbations | -- | BMVC | L+U | [PDF](https://www.bmvc2020-conference.com/assets/papers/0680.pdf) | [CODE](https://github.com/Britefury/cutmix-semisup-seg) |
