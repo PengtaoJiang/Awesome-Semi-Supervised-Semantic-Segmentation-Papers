@@ -17,6 +17,7 @@
 | Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision | CPS | CVPR | L+U | [PDF](https://arxiv.org/pdf/2106.01226v2.pdf) | [CODE](https://github.com/charlesCXK/TorchSemiSeg) |
 | Semi-supervised Semantic Segmentation with Directional Context-aware Consistency | DCC | CVPR | L+U | [PDF](https://jiaya.me/papers/semiseg_cvpr21.pdf) | [CODE]() | 
 | Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning | AEL | NeurIPS | L+U | [PDF](https://arxiv.org/abs/2110.05474) | [CODE](https://github.com/hzhupku/SemiSeg-AEL) |
+| Semi-Supervised Semantic Segmentation with Pixel-Level Contrastive Learning from a Class-wise Memory Bank | -- | CVPR | L+U | [PDF]() | [CODE]() | 
 
 ## 2020
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
