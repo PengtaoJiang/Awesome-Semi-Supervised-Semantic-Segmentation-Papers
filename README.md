@@ -26,3 +26,4 @@
 | Guided Collaborative Training for Pixel-wise Semi-Supervised Learning | PixelCCL | ECCV | L+U | [PDF](https://arxiv.org/pdf/2008.05258.pdf) | [CODE](https://github.com/ZHKKKe/PixelSSL) |
 | Semi-supervised semantic segmentation needs strong, varied perturbations | -- | BMVC | L+U | [PDF](https://www.bmvc2020-conference.com/assets/papers/0680.pdf) | [CODE](https://github.com/Britefury/cutmix-semisup-seg) |
 | Semi-supervised semantic segmentation needs strong, high-dimensional perturbations | -- | BMVC | L+U | [PDF](https://www.bmvc2020-conference.com/assets/papers/0680.pdf) | [CODE](https://github.com/Britefury/cutmix-semisup-seg) |
+| Semi-Supervised Segmentation based on Error-Correcting Supervision | ECN | L+U | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740137.pdf) | [CODE]() | 
